@@ -1,0 +1,7 @@
+1. Take a string from a user
+2. Break the string based on spaces.
+3. Store it in array.
+
+Write all the requiresd header files in stringTokenizer.h
+
+Write the main code in stringTokenizer.cpp
