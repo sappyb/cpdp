@@ -15,7 +15,7 @@ int main(int argc, char ** argv){
         StringCompare cmp;  
         Pwd work_dir;     
         while(1){
-                vector<string> command_line_tokens;
+                vector<string> command_line_tokens ;
                 char command_line[80];
                 cout << "$ ";
                 cin.getline(command_line,80);
