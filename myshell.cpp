@@ -4,6 +4,10 @@
 #include "cd.h"
 #include "stringCompare.h"
 #include "StringToChar.h"
+#include "ls.h"
+#include "pipe.h"
+#include "StringCommand.h"
+#include "redirection.h"
 #include <algorithm>
 #include <string>
 using namespace std;
